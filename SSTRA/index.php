@@ -6,7 +6,7 @@
 	session_start();
 	error_reporting(-1);
 
- 	const _BASE_URL	 		= 'localhost:8888/localmamp/Twig';
+ 	const _BASE_URL	 		= 'localhost:8888/localmamp/SSTRA';
 	const _DEBUG 			= false;
 	const _TWIG_CACHE 		= './vendor/cache'; // false | 'cache_dir'
 	const _TWIG_AUTOESCAPE	= false; // true | false
