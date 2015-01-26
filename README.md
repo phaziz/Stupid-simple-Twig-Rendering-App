@@ -9,5 +9,4 @@ Stupid simple Twig Rendering App
 	- SIMPLE 404
 	- SIMPLE APP CONFIG
 	- SIMPLE DEBUGGING OUTPUT
-
 	- NO DATABASE
